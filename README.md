@@ -1,5 +1,5 @@
 # InScrape
-InScrape digunakan untuk mengambil data-data dari dan memecahnya menjadi beberapa bagian (scraping)
+InScrape digunakan untuk mengambil data-data dari Instagram dan memecahnya menjadi beberapa bagian (scraping)
 
 # Tested on
 • Termux
