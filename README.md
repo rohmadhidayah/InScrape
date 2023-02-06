@@ -20,4 +20,4 @@ InScrape digunakan untuk mengambil data-data dari Instagram dan memecahnya menja
 # Notes
 • Pastikan koneksi internet bagus supaya tidak ada kendala
 
-• Dan jika username & password yang kamu masukin udah bener tapi tetep gagal, tunggu beberapa menit dan coba lagi (tapi hati-hati kamu tidak akan bisa buka Instagram, jika terlalu banyak LOGIN)
+• Dan jika username & password yang kamu masukin udah bener tapi tetep gagal, tunggu beberapa menit dan coba lagi (tapi hati-hati kamu tidak akan bisa buka Instagram, jika terlalu banyak LOGIN WKWK...)
